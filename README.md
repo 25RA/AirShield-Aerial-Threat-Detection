@@ -24,6 +24,19 @@ The project demonstrates how **computer vision and audio analytics** can be inte
 * Web-based interface for interacting with the detection system
 * Modular architecture for easy extension and experimentation
 
+## Dataset
+
+The dataset used for training is not included in this repository due to size limitations.
+
+The project was trained using aerial object image/video datasets containing classes such as:
+
+- Drone
+- Bird
+- Helicopter
+- Airplane
+
+You can use any similar aerial object dataset to retrain the models.
+
 ## Technology Stack
 
 ### Programming Language
