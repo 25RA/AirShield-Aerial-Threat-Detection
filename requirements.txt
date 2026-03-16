@@ -1,0 +1,7 @@
+ultralytics
+librosa
+opencv-python
+streamlit
+numpy
+tensorflow
+matplotlib
